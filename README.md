@@ -1,5 +1,5 @@
 ### About Me
-![https://github.com/account]
+![](https://github.com/account)
 
 *  Currently studying at Lanzhou University
 *  Born on 6.1,2003
