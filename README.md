@@ -1,5 +1,5 @@
 ### About Me
-![](https://zhijiao-blog.com/static/img/abeba2e0128271334b27e1dc4cf2b65f.touxiang.webp)
+![](https://zhijiao-blog.com/static/img/071ff5c4ee7c42bd7ad92ca749ffcf2c.128x.webp)
 
 *  Currently studying at Lanzhou University
 *  Born on 6.1,2003
