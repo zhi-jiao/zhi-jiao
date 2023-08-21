@@ -11,6 +11,6 @@ Will study for a master's degree(AI) at DSLab in Lanzhou University
 ### Interest
 * Deep Learning
 
-### Concact
+### Contact
 * My blog for learning -> https://zhijiao-blog.com/
 * Mail : zhsu20@lzu.edu.cn
