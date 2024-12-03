@@ -5,11 +5,13 @@
 *  Love music, especially FDDM
 
 ### Now
-Will study for a master's degree(AI) at DSLab in Lanzhou University 
+studying for a master's degree(AI) at DSLab in Lanzhou University now.
 
 ### Interest
 * Deep Learning
+* LLM
+* Time Series Forecasting
 
 ### Contact
-* My blog for learning -> https://zhijiao-blog.com/
+* My blog for learning -> zhi-jiao.github.io
 * Mail : zhsu20@lzu.edu.cn
